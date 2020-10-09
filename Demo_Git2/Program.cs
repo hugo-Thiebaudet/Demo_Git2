@@ -11,6 +11,7 @@ namespace Demo_Git2
         static void Main(string[] args)
         {
             Console.WriteLine("bonjour !!");
+            Console.WriteLine("je m'appelle hugo");
            
         }
     }
