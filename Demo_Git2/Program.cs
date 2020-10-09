@@ -12,7 +12,7 @@ namespace Demo_Git2
         {
             Console.WriteLine("bonjour !!");
             Console.WriteLine("je m'appelle hugo");
-           
+            Console.Write("et j'aime jouer a la play");
         }
     }
 }
